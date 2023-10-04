@@ -5,4 +5,4 @@ In the scope of this short project, it was aimed at:
 * scraping the "Language" and "Average Annual Salary" columns on the website
 * comparing paid salaries per programming language
 
-The main findings of this study were reported in the "Results and Discussion".
+The main findings of this study were reported in the "Results and Discussion" on Jupyer Notebook.
