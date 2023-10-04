@@ -1,5 +1,7 @@
 Stack Overflow is a popular website for developers. In 2019, an online survey was filled by 88,883 Stack Overflow users.  
 
+The original dataset is available on https://insights.stackoverflow.com/survey under a ODbL: Open Database License.
+
 Herein, it is set out to investigate: 
 
 * The gender distribution of the participants
