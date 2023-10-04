@@ -1,5 +1,7 @@
 The dataset used here encompasses information regarding employees in a company, such as educational backgrounds, work history, demographics, and employment-related factors.
 
+This data is retrieved from https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset under the license of CC9: Public Domain with usability of 9.41. The dataset has been already anonmyzied for privacy.
+
 Herein, it is set out to address the following issues:
 * the gender distribution
 
