@@ -14,3 +14,5 @@ Herein, it is set out to investigate:
 * The top 10 desired databases for the next year
 * The top 5 desired worked platforms for the next year
 * The top 5 desired web frames for the next year
+
+The findings of this project was summarized under the title of "Results and Discussion" and "Summary and Outlook" on the Jupyter-Notebook.
