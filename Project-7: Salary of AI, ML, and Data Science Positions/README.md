@@ -31,3 +31,7 @@ Herein, we set out to extract following information from the dataset via SQL.
 Based on the extracted information, in Dashboard#1, a glimpse into positions in AI, ML, and Data Science was provided.  The number of positions in the world, the number of jobs by employment type, the top 10 countries with the highest number of job positions by company size, and the number of job positions by remote ratio were instructively visualized.
 
 On the other hand, Dashboard#2 provides an insight into average reported salaries in the world, time-evolution of the average reported salaries for full-time contracts by experience, average reported salaries by employment type and company size, and the top 10 best paid job positions.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+
