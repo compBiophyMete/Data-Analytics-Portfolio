@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-This repository encompasses four sample data analytics projects showcasing my data manipulation, cleaning, extraction, analysis, and visualization skills.
+This repository encompasses seven sample data analytics projects showcasing my web scraping, data extraction, cleaning, analysis, and visualization skills.
 
 Python was leveraged the Project-1, 2, and 3 to analyze datasets. 
 
