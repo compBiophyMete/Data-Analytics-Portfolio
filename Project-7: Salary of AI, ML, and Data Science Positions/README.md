@@ -28,9 +28,9 @@ Herein, we set out to extract following information from the dataset via SQL.
 6. Average salaries ($) of companies depending on their sizes
 7. Average salaries of entry-, mid-, senior, and executive-level positions when only the full-time contracts are considered.
 
-Based on the extracted information, in [Dashboard#1] (https://public.tableau.com/views/Dashboard1AglimpseintopositionsinAIMLandDataScience/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link), a glimpse into positions in AI, ML, and Data Science was provided.  The number of positions in the world, the number of jobs by employment type, the top 10 countries with the highest number of job positions by company size, and the number of job positions by remote ratio were instructively visualized.
+Based on the extracted information, in [Dashboard#1](https://public.tableau.com/views/Dashboard1AglimpseintopositionsinAIMLandDataScience/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link), a glimpse into positions in AI, ML, and Data Science was provided.  The number of positions in the world, the number of jobs by employment type, the top 10 countries with the highest number of job positions by company size, and the number of job positions by remote ratio were instructively visualized.
 
-On the other hand, [Dashboard#2] (https://public.tableau.com/views/Dashboard2AglimpseintoyearlysalariesinAIMLandDataSciencepositions/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) provides an insight into average reported salaries in the world, time-evolution of the average reported salaries for full-time contracts by experience, average reported salaries by employment type and company size, and the top 10 best paid job positions.
+On the other hand, [Dashboard#2](https://public.tableau.com/views/Dashboard2AglimpseintoyearlysalariesinAIMLandDataSciencepositions/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) provides an insight into average reported salaries in the world, time-evolution of the average reported salaries for full-time contracts by experience, average reported salaries by employment type and company size, and the top 10 best paid job positions.
 
 
 
