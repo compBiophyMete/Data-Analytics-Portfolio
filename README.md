@@ -1,6 +1,15 @@
 # Data Analytics Portfolio
 
-This repository encompasses four sample data analytics projects that showcase my skills in web scraping, data analysis, and data visualization.
+This repository encompasses four sample data analytics projects showcasing my data manipulation, cleaning, extraction, analysis, and visualization skills.
 
-Project-1,2, and 3 were conducted using Python, whereas SQL was leveraged in project-5 and 6.
+Python was leveraged the Project-1, 2, and 3 to analyze datasets. 
+
+IBM Cognos was used to prepare a dashboard for Project-4. 
+
+SQL was utilized in Project-5 & 6. 
+
+SQL was utilized to extract data in Project-7, and subsequently, two dashboards were prepared in Tableau.
+
+
+
 
