@@ -16,4 +16,4 @@ Herein, it is set out to address the following issues:
 
 * any patterns in leave-taking behavior among employees
 
-The findings of the analysis were reported under the title of "Results and Discussion" and "Summary" on the Jupyter Notebook.
+The findings of the analysis were reported under the title of "Results and Discussion" and "Summary" on the Jupyter Notebook entitled Project-1:EmployeeDataset.ipynb.
