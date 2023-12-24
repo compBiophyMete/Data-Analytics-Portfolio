@@ -12,30 +12,30 @@ employee_db.sql needs to be executed to generate the database.
 
 extraction.sql file fulfills the following tasks:
 
-1.	Extract employees with a salary of > 50,000 USD.
+1.	Extract employees with a salary of > 20,000 USD.
 2.	Extract only the employees working in Common Grounds Coffeeshop.
-3.	Extract only the employees working in Common Grounds Coffeeshop and making a salary of > 50,000 USD
-4.	 Extract only the male employees working in Common Grounds Coffeeshop, making a salary of > 50,000 USD.
+3.	Extract only the employees working in Common Grounds Coffeeshop and making a salary of > 30,000 USD
+4.	Extract only the male employees working in Common Grounds Coffeeshop, making a salary of > 40,000 USD.
 5.	Extract all the employees who work in Common Grounds or make more than 50,000 USD or are male.
 6.	Extract all rows from the suppliers table where the supplier is Beans and Barley.
 7.	Extract all rows from the suppliers table where the supplier is not Beans and Barley.
 8.	Extract all coffee types that are not Robusta or Arabica.
 9.	Extract all employees with missing email addresses. 
 10.	Extract all employees whose emails are not missing.
-11.	Extract all employees who make between 35,000 and 50,000 USD.
+11.	Extract all employees who make between 25,000 and 55,000 USD.
 12.	Extract employee_id, first_name, and last_name sorted by salary in descending order. 
-13.	Find the top 10 highest-paid employees.
+13.	Find the top 5 highest-paid employees.
 14.	Extract all unique coffeeshop ids in the employees table.
 15.	Extract year, month, and day of hire.
 16.	Concatenate first and last names to create full names.
-17.	Extract the full name of the employees. If a person makes < 50,000 USD, then true; otherwise, false.
-18.	Extract the full name of the employees. If a person is a female and makes less than 50,000 USD, then true.
+17.	Extract the full name of the employees. If a person makes < 20,000 USD, then true; otherwise, false.
+18.	Extract the full name of the employees. If a person is a female and makes less than 60,000 USD, then true.
 19.	If an email has '.com', return true, otherwise false.
 20.	Extract the full name of only government employees.
-21.	Return the email addresses beginning from the 5th character.
+21.	Return the email addresses beginning from the 2nd character.
 22.	Find the position of the '@'.
 23.	Find the email addresses of the employees via a substring.
-24.	Fill the null emails as NO EMAIL PROVIDED.
+24.	Fill the null emails as MISSING EMAIL INFO.
 25.	Find the minimum salary.
 26.	Find the difference between maximum and minimum salary.
 27.	Find the average salary.
@@ -45,12 +45,12 @@ extraction.sql file fulfills the following tasks:
 31.	Find the number of employees for each coffeeshop.
 32.	Find the total salaries for each coffeeshop.
 33.	Find the number of employees and the average, minimum, maximum, and total salaries for each coffeeshop.
-34.	Find the number of employees and the average, minimum, maximum, and total salaries of coffeeshops with more than 200 employees, where coffeeshops are sorted in descending order by number of employees.
-35.	Extract only the coffeeshops and number of employees with a minimum salary of less than 10 000 USD.
-36.	Return employee_id, full_name, salary ,and pay_category, i.e high pay or low pay If pay is less than 50,000 USD, then low pay, otherwise high pay. Sort the return by salaries in descending order.
-37.	If pay is less than 20,000 USD, then low pay  
-if between 20,000-50,000 inclusive, then medium pay 
- if over 50,000, then high pay
+34.	Find the number of employees and the average, minimum, maximum, and total salaries of coffeeshops with more than 100 employees, where coffeeshops are sorted in descending order by number of employees.
+35.	Extract only the coffeeshops and number of employees with a minimum salary of less than 5,000 USD.
+36.	Return employee_id, full_name, salary ,and pay_category, i.e high pay or low pay If pay is less than 10,000 USD, then low pay, otherwise high pay. Sort the return by salaries in descending order.
+37.	If pay is less than 10,000 USD, then low pay  
+if between 10,000-40,000 inclusive, then medium pay 
+ if over 10,000, then high pay
 38.	Return the count of employees in each pay category.
 39.	Return the transposed form of the returned list above.
 40.	INNER JOIN of shops table with locations table.
@@ -67,6 +67,7 @@ if between 20,000-50,000 inclusive, then medium pay
 51.	Return the first_name, last_name, salary, the difference between salary and average salary via a subquery.
 52.	Return all of the US coffeeshops via subquery.
 53.	Return all employees who work in US coffeeshops.
-54.	Return all employees who make over 35,000 USD and work in US coffeeshops.
+54.	Return all employees who make over 15,000 USD and work in US coffeeshops.
 55.	Return 30-day moving total pay.
 
+PS: This project was adopted from the SQL Database Course: Beginner to Intermediate delivered by Mo Chen.
