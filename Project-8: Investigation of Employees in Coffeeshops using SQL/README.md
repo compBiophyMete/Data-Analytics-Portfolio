@@ -8,9 +8,9 @@ The locations table harbors city_id, city, and country columns, where city_id is
 
 The table entitled shops is comprised of coffee_shop, coffeeshop_name, and city_id columns. The coffee_shop and city_id columns are primary and foreign keys, respectively.
 
-database.sql needs to be executed to generate the database. 
+employee_db.sql needs to be executed to generate the database. 
 
-extract.sql file fulfills the following tasks:
+extraction.sql file fulfills the following tasks:
 
 1.	Extract employees with a salary of > 50,000 USD.
 2.	Extract only the employees working in Common Grounds Coffeeshop.
