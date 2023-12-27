@@ -1,6 +1,6 @@
 In this project's scope, the Nashville Housing dataset was cleaned using SQL. 
 
-Herein, the dataset was cleaned in SQL in the following steps: 
+Herein, the dataset was cleaned with SQL in the following steps: 
 
 * Standardizing  the date format as YYYY-MM-DD
 * Populating property address data based on Parcel ID and Unique ID
