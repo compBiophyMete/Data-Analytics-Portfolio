@@ -1,4 +1,4 @@
-In this project's scope, the Nashville Housing dataset was scrutinized for data wrangling. 
+In this project's scope, the Nashville Housing dataset was cleaned using SQL. 
 
 Herein, the dataset was cleaned in SQL in the following steps: 
 
