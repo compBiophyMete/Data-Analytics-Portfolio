@@ -1,73 +1,65 @@
-PostgreSQL was utilized to query data of employees working in coffeeshops from the database of 4 tables: employees, suppliers, locations, and shops. 
+**Situation:**
+In a database environment, PostgreSQL was employed to manage data related to employees working in various coffeeshops. The database consists of four tables: employees, suppliers, locations, and shops, each with specific columns and relationships.
 
-The employees table encompasses employee_id, first_name, last_name, email, hire_date, gender, salary, and coffeeshop_id columns. employee_id is the primary key, whereas coffeeshop_id is the foreign key.
+**Task:**
+The objective was to execute SQL queries to extract and manipulate data from the database. The goal is to obtain relevant information about employees, coffeeshops, and suppliers based on specified criteria.
 
-The suppliers table is made up of coffeeshop_id, supplier_name, and coffee_type columns, where the first two columns are the primary key. 
+**Action:**
 
-The locations table harbors city_id, city, and country columns, where city_id is the primary key.
+*1. Problem-solving and Query Execution:*
 
-The table entitled shops is comprised of coffee_shop, coffeeshop_name, and city_id columns. The coffee_shop and city_id columns are primary and foreign keys, respectively.
+Execute the provided employee_db.sql to generate the database.
 
-employee_db.sql needs to be executed to generate the database. 
+*2. Data Extraction Queries:*
 
-extraction.sql file fulfills the following tasks:
+Extract employees with a salary greater than $20,000.
+Extract employees working in "Common Grounds Coffeeshop."
+Extract male employees in "Common Grounds Coffeeshop" with a salary exceeding $40,000.
+Extract all employees meeting specific criteria (salary, workplace, and gender).
+Extract relevant data from the suppliers table based on supplier name.
+Extract information about coffee types that are not "Robusta" or "Arabica."
+Identify and extract employees with missing or non-missing email addresses.
+Extract employees with salaries between $25,000 and $55,000.
+Extract specific employee details and sort them by salary in descending order.
+Identify the top 5 highest-paid employees.
 
-1.	Extract employees with a salary of > 20,000 USD.
-2.	Extract only the employees working in Common Grounds Coffeeshop.
-3.	Extract only the employees working in Common Grounds Coffeeshop and making a salary of > 30,000 USD
-4.	Extract only the male employees working in Common Grounds Coffeeshop, making a salary of > 40,000 USD.
-5.	Extract all the employees who work in Common Grounds or make more than 50,000 USD or are male.
-6.	Extract all rows from the suppliers table where the supplier is Beans and Barley.
-7.	Extract all rows from the suppliers table where the supplier is not Beans and Barley.
-8.	Extract all coffee types that are not Robusta or Arabica.
-9.	Extract all employees with missing email addresses. 
-10.	Extract all employees whose emails are not missing.
-11.	Extract all employees who make between 25,000 and 55,000 USD.
-12.	Extract employee_id, first_name, and last_name sorted by salary in descending order. 
-13.	Find the top 5 highest-paid employees.
-14.	Extract all unique coffeeshop ids in the employees table.
-15.	Extract year, month, and day of hire.
-16.	Concatenate first and last names to create full names.
-17.	Extract the full name of the employees. If a person makes < 20,000 USD, then true; otherwise, false.
-18.	Extract the full name of the employees. If a person is a female and makes less than 60,000 USD, then true.
-19.	If an email has '.com', return true, otherwise false.
-20.	Extract the full name of only government employees.
-21.	Return the email addresses beginning from the 2nd character.
-22.	Find the position of the '@'.
-23.	Find the email addresses of the employees via a substring.
-24.	Fill the null emails as MISSING EMAIL INFO.
-25.	Find the minimum salary.
-26.	Find the difference between maximum and minimum salary.
-27.	Find the average salary.
-28.	Round average salary to the nearest integer.
-29.	Sum up the salaries.
-30.	Count the number of entries in the employees table.
-31.	Find the number of employees for each coffeeshop.
-32.	Find the total salaries for each coffeeshop.
-33.	Find the number of employees and the average, minimum, maximum, and total salaries for each coffeeshop.
-34.	Find the number of employees and the average, minimum, maximum, and total salaries of coffeeshops with more than 100 employees, where coffeeshops are sorted in descending order by number of employees.
-35.	Extract only the coffeeshops and number of employees with a minimum salary of less than 5,000 USD.
-36.	Return employee_id, full_name, salary ,and pay_category, i.e high pay or low pay If pay is less than 10,000 USD, then low pay, otherwise high pay. Sort the return by salaries in descending order.
-37.	If pay is less than 10,000 USD, then low pay  
-if between 10,000-40,000 inclusive, then medium pay 
- if over 10,000, then high pay
-38.	Return the count of employees in each pay category.
-39.	Return the transposed form of the returned list above.
-40.	INNER JOIN of shops table with locations table.
-41.	LEFT JOIN of shops table with locations table.
-42.	RIGHT JOIN of shops table with locations table.
-43.	FULL JOIN of shops table with locations table.
-44.	Return all cities and countries.
-45.	Removing country duplicates with the union function.
-46.	Keep the duplicate countries with the union function.
-47.	Return all coffeeshop names, cities, and countries.
-48.	Return everything from the employees table where coffeeshop_id is 3 or 4 via a subquery.
-49.	Return employee_id, first_name, and last_name of employees where coffeeshop_id is 3 or 4 via a subquery.
-50.	Return the first_name, last_name, and salary of the employees with the highest salary via a subquery.
-51.	Return the first_name, last_name, salary, the difference between salary and average salary via a subquery.
-52.	Return all of the US coffeeshops via subquery.
-53.	Return all employees who work in US coffeeshops.
-54.	Return all employees who make over 15,000 USD and work in US coffeeshops.
-55.	Return 30-day moving total pay.
+*3.Data Transformation and Manipulation:*
+
+Extract unique coffeeshop IDs from the employees table.
+Extract year, month, and day of hire from the hire_date column.
+Concatenate first and last names to create full names.
+Evaluate conditions and generate boolean values for specific criteria.
+Extract full names of government employees.
+Data Cleaning and Formatting:
+Perform substring operations on email addresses.
+Replace null email addresses with "MISSING EMAIL INFO."
+
+*4. Statistical Analysis:*
+
+Find the minimum, maximum, and average salary.
+Round the average salary to the nearest integer.
+Calculate the sum of all salaries.
+Count the number of entries in the employees table.
+
+*5. Aggregation and Grouping:%
+
+Find the number of employees for each coffeeshop.
+Calculate total salaries for each coffeeshop.
+Provide aggregated statistics (count, average, minimum, maximum, total) for each coffeeshop.
+Identify coffeeshops with more than 100 employees, sorted by employee count in descending order.
+Advanced Queries and Categorization:
+Extract coffeeshops meeting specific salary criteria.
+Categorize employees as "low pay" or "high pay" based on salary thresholds.
+Count employees in each pay category.
+
+*6. Data Presentation and Joins:*
+
+Perform various types of joins (INNER, LEFT, RIGHT, FULL) between the shops and locations tables.
+Display city and country information, removing or keeping duplicates using the union function.
+Retrieve information about coffeeshop names, cities, and countries.
+
+**Result:**
+
+By executing these queries, a comprehensive understanding of employee data, supplier details, and coffeeshop information were obtained, which would facilitate informed decision-making and analysis in the context of the provided database.
 
 PS: This project was adopted from the SQL Database Course: Beginner to Intermediate delivered by Mo Chen.
