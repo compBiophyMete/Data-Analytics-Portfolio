@@ -4,7 +4,7 @@ The dataset under consideration contains salary information for positions in the
 
 **Task:**
 
-The objective is to extract valuable insights from the dataset using SQL queries. The key information sought includes the number of positions based on employment types, remote work ratios, and company sizes. Additionally, average salaries are to be computed for various categories such as job titles, countries, and company sizes. This information was utilized to create two dashboards.
+The objective is to extract valuable insights from the dataset using SQL queries. The key information sought includes the number of positions based on employment types, remote work ratios, and company sizes. Additionally, average salaries were computed for various categories such as job titles, countries, and company sizes. This information was utilized to create two dashboards.
 
 **Action:**
 
