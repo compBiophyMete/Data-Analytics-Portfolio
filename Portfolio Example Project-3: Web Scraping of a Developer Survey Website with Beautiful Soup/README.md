@@ -1,6 +1,6 @@
 **Situation:**
 
-The project was initiated to extract and analyze data from a salary survey of developers available on a specific website ([Programming Languages Salary Survey(https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html)]). The primary focus was on the "Language" and "Average Annual Salary" columns, with the objective of comparing salaries across different programming languages.
+The project was initiated to extract and analyze data from a salary survey of developers available on a specific website [Programming Languages Salary Survey(https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html)]. The primary focus was on the "Language" and "Average Annual Salary" columns, with the objective of comparing salaries across different programming languages.
 
 **Task:**
 
