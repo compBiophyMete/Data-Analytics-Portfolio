@@ -21,14 +21,14 @@ The objective is to extract valuable insights from the dataset using SQL queries
 
 Based on the extracted information, two dashboards were created:
 
-***Dashboard#1:***
+***[Dashboard#1](https://public.tableau.com/views/Dashboard1AglimpseintopositionsinAIMLandDataScience/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link/):***
 
 - Overview of positions in AI, ML, and Data Science worldwide.
 - Breakdown of positions by employment type.
 - Top 10 countries with the highest number of job positions based on company size.
 - Distribution of job positions by remote work ratios.
 
-***Dashboard#2:***
+***[Dashboard#2](https://public.tableau.com/views/Dashboard2AglimpseintoyearlysalariesinAIMLandDataSciencepositions/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link/):***
 
 - Global average reported salaries.
 - Time-evolution of average reported salaries for full-time contracts by experience level.
