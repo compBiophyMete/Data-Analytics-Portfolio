@@ -36,4 +36,5 @@ Based on the extracted information, two dashboards were created:
 - Top 10 best-paid job positions.
 
 **Reflection:**
+
 These dashboards provide a comprehensive view of the job landscape in the specified domains, offering insights into both the quantity and compensation aspects.
