@@ -22,5 +22,6 @@ The project was initiated to extract and analyze data from a salary survey of de
 The project culminated in the establishment of a distinct order of programming languages based on their average annual salaries: Swift, Python, C++, JavaScript, Java, Go, R, C#, SQL, and PHP. Particularly noteworthy was the observation that Swift offered a significantly higher average annual salary compared to Python and C++, leading to a practical recommendation for early-career developers or recent graduates.
 
 **Reflection:**
+
 This project showcases the ability to extract and analyze data from a real-world survey, providing valuable insights for individuals considering career paths in programming languages.
 
