@@ -4,11 +4,11 @@ The project was initiated to extract and analyze data from a salary survey of de
 
 **Task:**
 
-- Web Scraping: The initial task involved extracting data from the website, concentrating on the specified columns.
-- Data Processing: Following the extraction, meticulous processing of the obtained data was carried out to ensure its accuracy and relevance.
-- CSV File Creation: The processed data was systematically stored in a CSV file, establishing a structured format for future reference.
-- Sorting: Programming languages were sorted based on their average annual salaries, resulting in a descending order for clear comparison.
-- Visualization: A bar plot was generated to visually highlight the significant differences in average annual salaries among the programming languages.
+- Web Scraping
+- Data Processing
+- CSV File Creation
+- Sorting
+- Visualization
 
 **Action:**
 - Conducted web scraping to extract relevant data using appropriate tools and techniques.
@@ -20,4 +20,7 @@ The project was initiated to extract and analyze data from a salary survey of de
 **Result:**
 
 The project culminated in the establishment of a distinct order of programming languages based on their average annual salaries: Swift, Python, C++, JavaScript, Java, Go, R, C#, SQL, and PHP. Particularly noteworthy was the observation that Swift offered a significantly higher average annual salary compared to Python and C++, leading to a practical recommendation for early-career developers or recent graduates.
+
+**Reflection:**
+This project showcases the ability to extract and analyze data from a real-world survey, providing valuable insights for individuals considering career paths in programming languages.
 
