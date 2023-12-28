@@ -1,19 +1,19 @@
-The dataset used here encompasses information regarding employees in a company, such as educational backgrounds, work history, demographics, and employment-related factors.
+**Situation:**
 
-This data is retrieved from https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset under the license of CC9: Public Domain with a usability of 9.41. The dataset has been already anonymized for privacy.
+I conducted an analysis on an employee dataset sourced from Kaggle under the CC9: Public Domain license with a usability rating of 9.41. The dataset, containing 4653 rows and 9 columns, provides comprehensive information on employees, including educational backgrounds, work history, demographics, and employment-related factors. It has been anonymized to ensure privacy.
 
-Herein, it is set out to address the following issues:
+**Task:**
 
-* the gender distribution
+The objective was to address specific issues within the dataset, including the gender distribution, distribution of educational qualifications among employees, educational qualifications by gender, the number of recruited employees over the years, the correlation between payment tier and experience, and any patterns in leave-taking behavior.
 
-* the distribution of educational qualifications among employees
+**Action:**
 
-* the distribution of educational qualifications among employees by gender
+1. Gender Distribution: In the company, male employees constitute 59.70%, while female employees account for 40.30%, indicating a prevalence of male employees.
+2. Educational Qualifications: The majority of employees (3601) hold a BSc degree, with 873 and 179 employees having MSc and PhD degrees, respectively.
+3. Recruitment Trends: The highest number of employees (1108) was recruited in 2017.
+4. Correlation Analysis: The Pearson's correlation coefficient between experience in the current domain and payment tier was 0.018, suggesting a lack of correlation. Additionally, no strong correlation was found between leave-taking behavior and joining year (0.18), payment tier (-0.20), age (-0.05), or experience in the domain (-0.03).
+5. Leave-Taking Patterns: Employees with PhD degrees (25.14%) are less likely to take leave compared to those with MSc (48.80%) and BSc degrees (31.35%). Location-wise, employees in Bangalore (26.71%) are less prone to taking leave compared to New Delhi (31.63%) and Pune (50.39%). Furthermore, 25.77% of males display leave-taking behavior, while 47.15% of females take leave. Employees with temporary tasks (33.13%) are less likely to exhibit leave-taking behavior compared to those without temporary tasks (45.40%).
 
-* the number of recruited employees over the years
+**Result:**
 
-* the correlation between payment tier and experience in the current domain
-
-* any patterns in leave-taking behavior among employees
-
-The findings of the analysis were reported under the title of "Results and Discussion" and "Summary" on the Jupyter Notebook entitled Project-1:EmployeeDataset.ipynb.
+This analysis provides valuable insights into the gender distribution, educational qualifications, recruitment trends, payment-experience correlation, and leave-taking patterns within the company, contributing to a better understanding of employee dynamics and behavior.
