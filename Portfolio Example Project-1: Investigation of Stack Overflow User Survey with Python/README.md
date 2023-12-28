@@ -10,6 +10,11 @@ The objective was to explore various aspects, including gender distribution, res
 
 The dataset, initially consisting of 88,883 rows and 85 columns. Thirteen relevant columns were chosen for analysis, and 72 columns were discarded. Missing entries in certain columns were addressed through either dropping rows or using imputation methods like mode and mean. Outliers were removed before predicting missing entries in the 'Age' column. The remaining dataset was scrutinized for participant profiles.
 
+The remaining dataset was scrutinized for 
+
+- participant profiles,
+- preferences of users in programming languages, databases, platforms, and web frameworks in 2019 and the next year.
+
 **Result:**
 
 - 92.19% of respondents were male, 6.76% identified as women, and 1.05% as non-binary/genderqueer/gender non-conforming.
