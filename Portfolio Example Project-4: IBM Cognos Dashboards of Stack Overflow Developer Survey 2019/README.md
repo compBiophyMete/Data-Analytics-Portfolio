@@ -7,8 +7,8 @@ In 2019, Stack Overflow conducted a comprehensive survey with 88,883 participant
 As part of the analysis, demographic information, current technology usage, and future technology trends were scrutinized.
 
 **Action:**
-[Dashboards (https://dataplatform.cloud.ibm.com/dashboards/d99e4ca8-b5dc-475f-9e3d-a0ce25d6ba81/view/0463dc2a26e81ce25cabeee4079879022f302754b2bbd501d6d67b495d317497f36a1699c82c4f0cd9445730a0b8100f9b
-/)] were prepared which address key aspects, such as
+[Dashboards](https://dataplatform.cloud.ibm.com/dashboards/d99e4ca8-b5dc-475f-9e3d-a0ce25d6ba81/view/0463dc2a26e81ce25cabeee4079879022f302754b2bbd501d6d67b495d317497f36a1699c82c4f0cd9445730a0b8100f9b
+/) were prepared which address key aspects, such as
 - the gender distribution,
 - the location of the participants,
 - the age of the participants,
