@@ -39,4 +39,5 @@ The primary objective was to explore gender distribution, respondent age, formal
 React.js emerged as the first-ranked web framework for the next year, with changes in developer preferences, including a decrease in jQuery's popularity.
 
 **Reflection:**
+
 In summary, the investigation provided key insights into the demographic and technological landscape of Stack Overflow users, identifying trends and notable changes in preferences, especially in databases, platforms, and web frameworks among developers.
