@@ -1,7 +1,9 @@
 **Situation:**
+
 In a database environment, PostgreSQL was employed to manage data related to employees working in various coffeeshops. The database consists of four tables: employees, suppliers, locations, and shops, each with specific columns and relationships.
 
 **Task:**
+
 The objective was to execute SQL queries to extract and manipulate data from the database. The goal is to obtain relevant information about employees, coffeeshops, and suppliers based on specified criteria.
 
 **Action:**
