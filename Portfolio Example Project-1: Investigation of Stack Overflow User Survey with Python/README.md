@@ -1,12 +1,12 @@
-*Situation:*
+**Situation:**
 
 In 2019, a comprehensive online survey on Stack Overflow engaged 88,883 users, and the dataset was publicly available under the ODbL: Open Database License.
 
-Task:
+**Task:**
 
 The objective was to investigate various aspects, including gender distribution, respondent age distribution, formal education levels, country-wise respondent counts, and rankings of programming languages, databases, platforms, and web frameworks in both 2019 and expectations for the next year.
 
-Action:
+**Action:**
 
 To accomplish this, an analysis was conducted on the dataset, which initially contained 88,883 rows and 85 columns. Thirteen relevant columns were selected for analysis, and 72 columns were discarded. Missing entries in certain columns were addressed through either dropping rows or employing imputation methods such as mode and mean. Outliers were removed before predicting missing entries in the 'Age' column. The remaining dataset was then scrutinized for participant profiles.
 
@@ -20,6 +20,6 @@ The top 5 worked platforms in 2019, listed in descending order, were Linux, Wind
 
 The top 5 worked web frameworks in 2019 were jQuery, React.js, Angular/Angular.js, ASP.NET, and Express, while the most desired top 5 web frameworks in the next year were React.js, Vue.js, Angular/Angular.js, jQuery, and ASP.NET. jQuery's popularity decreased, and React.js emerged as the first-ranked web framework, reflecting changing preferences among developers.
 
-Result:
+**Result:**
 
 In summary, the investigation highlighted key insights into the demographic and technological landscape of Stack Overflow users, identifying trends and notable changes in preferences, especially in databases, platforms, and web frameworks, among developers.
