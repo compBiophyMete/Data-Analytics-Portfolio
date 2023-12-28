@@ -41,7 +41,7 @@ Round the average salary to the nearest integer.
 Calculate the sum of all salaries.
 Count the number of entries in the employees table.
 
-*5. Aggregation and Grouping:%
+*5. Aggregation and Grouping:*
 
 Find the number of employees for each coffeeshop.
 Calculate total salaries for each coffeeshop.
