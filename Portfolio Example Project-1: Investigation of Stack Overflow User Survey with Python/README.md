@@ -21,15 +21,19 @@ The primary objective was to explore gender distribution, respondent age, formal
 - Mean age: 29.48, standard deviation: 7.18.
 - The majority (49.78%) held a BSc degree.
 - Top five countries with the most participants: US, India, the UK, Germany, and Canada.
+
 *2. Programming Languages (2019 and Next Year):*
 - Top 10 languages in 2019 included JavaScript, HTML/CSS, SQL, Java, Python, Bash/Shell/PowerShell, C#, PHP, TypeScript, and C++.
    For the next year, expectations included Python rising, JavaScript and HTML/CSS remaining dominant, and observed changes in rankings such as Java losing popularity and TypeScript moving up.
+  
 *3. Databases (2019 and Next Year):*
 - Top 10 databases in 2019 were MySQL, PostgreSQL, Microsoft SQL Server, SQLite, MongoDB, Redis, MariaDB, Oracle, Elasticsearch, and Firebase.
 - Anticipated changes for the next year included PostgreSQL, MongoDB, MySQL, Redis, and Elasticsearch leading, signifying significant shifts in database preferences.
+  
 *4. Platforms (2019 and Next Year):*
 - Top 5 platforms in 2019: Linux, Windows, Docker, AWS, and Android.
 - For the next year, Linux retained its top position, Docker and AWS switched places, and Windows experienced a decline in popularity.
+  
 *5. Web Frameworks (2019 and Next Year):*
 - Top 5 web frameworks in 2019 were jQuery, React.js, Angular/Angular.js, ASP.NET, and Express.
 React.js emerged as the first-ranked web framework for the next year, with changes in developer preferences, including a decrease in jQuery's popularity.
