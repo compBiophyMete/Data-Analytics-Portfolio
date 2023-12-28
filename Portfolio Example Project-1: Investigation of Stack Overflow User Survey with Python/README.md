@@ -23,4 +23,5 @@ The top 5 worked platforms in 2019, listed in descending order, were Linux, Wind
 The top 5 worked web frameworks in 2019 were jQuery, React.js, Angular/Angular.js, ASP.NET, and Express, while the most desired top 5 web frameworks in the next year were React.js, Vue.js, Angular/Angular.js, jQuery, and ASP.NET. jQuery's popularity decreased, and React.js emerged as the first-ranked web framework, reflecting changing preferences among developers.
 
 **Relection:**
+
 In summary, the investigation highlighted key insights into the demographic and technological landscape of Stack Overflow users, identifying trends and notable changes in preferences, especially in databases, platforms, and web frameworks, among developers.
