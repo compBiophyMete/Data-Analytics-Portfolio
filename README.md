@@ -1,16 +1,9 @@
 # Data Analytics Portfolio
 
-This repository encompasses seven sample data analytics projects showcasing my web scraping, data extraction, cleaning, analysis, and visualization skills.
+Welcome to my page showcasing my data analytics portolio projects.
 
-Python was leveraged in the Project-1, 2, and 3 to analyze datasets. 
+I am Metehan Ilter, who is a data enthusiast and would like to achieve a career in Data Analytics and Science. 
 
-IBM Cognos was used to prepare a dashboard for Project-4. 
-
-SQL was utilized in Project-5, 6, and 8. 
-
-SQL was utilized to extract data in Project-7, and subsequently, two dashboards were prepared in Tableau.
-
-For further details of the projects, please go through the README.md of individual projects.
 
 
 
