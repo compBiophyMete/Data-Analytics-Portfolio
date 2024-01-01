@@ -10,14 +10,14 @@ The goal was to perform a comprehensive analysis of the 'Covid19deaths.csv' and 
 
 SQL queries were written to find:
  
-1. Percentages of Deaths in Europe Sorted by Date:
-2. Percentages of Deaths in European Countries Sorted by Population Percentage:
-3. Percentage of Infected People Over Time in Europe Sorted by Location and Date:
-4. Percentage of Infected People in European Countries Sorted by Population Percentage:
-5. Highest Death and Infection Counts in Countries:
-6. Death and Infection Percentages of Continents:
-7. Total New Cases, Deaths, and Death Percentage of New Cases Over Time:
-8. Time Evolution of Vaccinated People in the Population:
+1. Percentages of Deaths in Europe Sorted by Date
+2. Percentages of Deaths in European Countries Sorted by Population Percentage
+3. Percentage of Infected People Over Time in Europe Sorted by Location and Date
+4. Percentage of Infected People in European Countries Sorted by Population Percentage
+5. Highest Death and Infection Counts in Countries
+6. Death and Infection Percentages of Continents
+7. Total New Cases, Deaths, and Death Percentage of New Cases Over Time
+8. Time Evolution of Vaccinated People in the Population
 
 **Result:**
 
