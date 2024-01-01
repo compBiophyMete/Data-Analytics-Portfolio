@@ -30,6 +30,4 @@ As part of the analysis, demographic information, current technology usage, and 
 - Participants expressed interest in working with Linux, Docker, AWS, Windows, Android, Kubernetes, MacOS, Raspberry Pi, Google Cloud Platform, Slack, Microsoft Azure, iOS, Arduino, Heroku, WordPress, IBM Cloud, and Other(s) in the coming year.
 - React.js, Vue.js, Angular/Angular.js, ASP.NET, jQuery, Express, Spring, Django, Flask, and Ruby on Rails were the desired web frameworks for the next year.
 
-**Result:**
-
 The findings provide valuable insights into the preferences and expectations of developers, aiding in understanding current trends and anticipating future developments in the tech industry.
