@@ -30,3 +30,10 @@ Designing a dashboard addressing the following points:
   - Establish links between different sheets and charts for seamless data updates.
 - Quality Assurance:
   - Ensure accuracy and reliability by cross-verifying data and formulas.
+
+**Result:**
+
+- Insightful dashboard: A well-designed MS Excel dashboard providing a comprehensive overview of coffee sales and trends in Ireland, the UK, and the US.
+- Visual Representation: Clear visualizations depicting sales trends, top products, profit analysis, and regional comparisons.
+- User-Friendly Interface: An interactive interface allowing stakeholders to explore data and draw meaningful insights.
+- Informed Decision-Making: Empowered stakeholders with actionable insights to make informed decisions regarding coffee sales strategies.
