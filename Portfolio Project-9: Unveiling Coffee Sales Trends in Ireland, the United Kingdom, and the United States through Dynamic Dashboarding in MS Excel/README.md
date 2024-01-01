@@ -18,7 +18,6 @@ Designing a dashboard addressing the following points:
 - Data processing:
   - Employed MS Excel XLOOKUP, INDEX, and MATCH functions to join sheets.
   - Leveraged IF function to process the joined dataset.
-  
 - Dashboard Creation:
   - Utilize Excel's dashboard features, such as PivotTables, charts, and slicers, for an intuitive and visually appealing layout.
 - Data Linking:
