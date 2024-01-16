@@ -62,6 +62,6 @@ Retrieve information about coffeeshop names, cities, and countries.
 
 **Result:**
 
-By executing these queries, a comprehensive understanding of employee data, supplier details, and coffeeshop information were obtained, which would facilitate informed decision-making and analysis in the context of the provided database.
+By executing these queries, a comprehensive understanding of employee data, supplier details, and coffeeshop information was obtained, which would facilitate informed decision-making and analysis in the context of the provided database.
 
 PS: This project was adopted from the SQL Database Course: Beginner to Intermediate delivered by Mo Chen.
