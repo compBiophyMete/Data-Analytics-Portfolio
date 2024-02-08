@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Greetings! I am thrilled to invite you to explore the fascinating world of data through my portfolio. I am Metehan Ilter, a dedicated data enthusiast passionate about unraveling insights and making meaningful interpretations from complex datasets.
+Greetings! I am thrilled to invite you to explore the fascinating world of data through my portfolio. I am Metehan Ilter, a dedicated data enthusiast, who is passionate about unraveling insights and making meaningful interpretations from complex datasets.
 
 To embark on a journey toward a career in Data Analytics, I have curated a collection of projects that showcase my skills, creativity, and analytical skills. Each project represents a unique challenge met with enthusiasm, utilizing tools and techniques to extract valuable insights and tell compelling stories through data.
 
