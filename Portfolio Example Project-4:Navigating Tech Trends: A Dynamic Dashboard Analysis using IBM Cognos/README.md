@@ -1,3 +1,5 @@
+**Navigating Tech Trends: A Dynamic Dashboard Analysis using IBM Cognos**
+
 **Situation:**
 
 In 2019, Stack Overflow conducted a comprehensive survey with 88,883 participants, and a subset representing 1/10th of the data was randomly chosen for analysis.
