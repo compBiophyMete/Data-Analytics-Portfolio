@@ -40,10 +40,10 @@ The objective was to address specific issues within the dataset, including gende
   
 *5. Leave-Taking Patterns:*
 
-- Employees with PhD degrees less likely to take leave (25.64%)
-- Location-wise variation: Bangalore (35.01%), New Delhi (34.09%), Pune (50.94%)
-- Gender differences: Males (31.00%), Females (49.72%)
-- Temporary tasks impact: Without temporary tasks (44.04%), With temporary tasks (38.66%)
+- Employees with PhD degrees less likely to take leave (25.64% of the employees with Ph.D. degree take leave.)
+- Location-wise variation: Bangalore (35.01% of employees based in Bangalore), New Delhi (34.09% of employees in New Delhi), Pune (50.94% of employees located in New Delhi)
+- Gender differences: Males (31.00% of male employees), Females (49.72% of female employees)
+- Temporary tasks impact: Without temporary tasks (44.04% of employees without any temporary tasks), With temporary tasks (38.66% of employees with temporary tasks)
   
 **Reflection:**
 
