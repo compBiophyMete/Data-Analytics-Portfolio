@@ -1,3 +1,5 @@
+**Exploring Workforce Dynamics with Python: A Comprehensive Analysis of Gender Distribution, Educational Qualifications, Recruitment Trends, and Leave Behavior**
+
 **Situation:**
 
 I analyzed an employee dataset from Kaggle, licensed under CC9: Public Domain with a usability rating of 9.41. The dataset, consisting of 4653 rows and 9 columns, offers comprehensive information on employees' educational backgrounds, work history, demographics, and employment-related factors. The dataset has been anonymized to ensure privacy.
