@@ -1,3 +1,5 @@
+**Data Mining COVID-19 Insights with SQL: Exploring Deaths, Infections, and Vaccinations**
+
 **Situation:**
 
 A dataset representing the daily new confirmed COVID-19 deaths per million people between January 28, 2020, and April 30, 2021 were retrieved from https://ourworldindata.org/covid-deaths. The dataset was further modified, and two files, 'Covid19deaths.csv' and 'Covidvac.csv', were created. 'Covid19deaths.csv' contains population data and relevant columns, while 'Covidvac.csv' focuses on vaccination data.
