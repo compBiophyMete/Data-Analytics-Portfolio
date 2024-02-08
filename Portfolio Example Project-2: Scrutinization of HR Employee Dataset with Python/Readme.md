@@ -8,7 +8,7 @@ The objective was to address specific issues within the dataset, including gende
 
 **Action:**
 
-- Investigated the dataset for null and duplicate values.
+- Cleaned the dataset.
 - Analyzed the dataset to unveil:
   - Gender distribution
   - Educational qualifications
@@ -20,29 +20,30 @@ The objective was to address specific issues within the dataset, including gende
 
 *1. Gender Distribution:*
 
-- Male employees: 59.70%
-- Female employees: 40.30%
+- Male employees: 55.32%
+- Female employees: 44.68%
 
 *2. Educational Qualifications:*
-- BSc: Majority (3601 employees)
--nMSc: 873 employees
-- PhD: 179 employees
+- BSc: Majority (1971 employees)
+- MSc: 637 employees
+- PhD: 156 employees
 
 *3. Recruitment Trends:*
 
-- Highest recruitment in 2017 (1108 employees)
+- Highest recruitment in 2017 (662 employees)
+- Recruitment were significantly low in 2016 and 2018
   
 *4. Correlation:*
 
-- Experience-Payment Tier: Pearson's correlation coefficient of 0.018, indicating a lack of correlation.
-- Leave-Taking Behavior: No strong correlation with joining year (0.18), payment tier (-0.20), age (-0.05), or experience in the domain (-0.03).
+- Experience-Payment Tier: Pearson's correlation coefficient of -0.004602, indicating a lack of correlation.
+- Leave-Taking Behavior: No strong correlation between leave-taking behavior and joining year (0.150650), payment tier (-0.119891), age (-0.114943), and experience in domain (-0.021181). 
   
 *5. Leave-Taking Patterns:*
 
-- Employees with PhD degrees less likely to take leave (25.14%)
-- Location-wise variation: Bangalore (26.71%), New Delhi (31.63%), Pune (50.39%)
-- Gender differences: Males (25.77%), Females (47.15%)
-- Temporary tasks impact: Without temporary tasks (45.40%), With temporary tasks (33.13%)
+- Employees with PhD degrees less likely to take leave (25.64%)
+- Location-wise variation: Bangalore (35.01%), New Delhi (34.09%), Pune (50.94%)
+- Gender differences: Males (31.00%), Females (49.72%)
+- Temporary tasks impact: Without temporary tasks (44.04%), With temporary tasks (38.66%)
   
 **Reflection:**
 
