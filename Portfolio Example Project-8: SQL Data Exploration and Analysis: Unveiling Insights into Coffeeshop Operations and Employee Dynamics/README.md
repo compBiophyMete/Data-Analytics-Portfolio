@@ -1,3 +1,5 @@
+**SQL Data Exploration and Analysis: Unveiling Insights into Coffeeshop Operations and Employee Dynamics**
+
 **Situation:**
 
 In a database environment, PostgreSQL was employed to manage data related to employees working in various coffeeshops. The database consists of four tables: employees, suppliers, locations, and shops, each with specific columns and relationships.

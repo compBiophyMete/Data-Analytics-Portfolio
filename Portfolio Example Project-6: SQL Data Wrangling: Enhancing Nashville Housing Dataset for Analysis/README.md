@@ -1,3 +1,5 @@
+**SQL Data Wrangling: Enhancing Nashville Housing Dataset for Analysis**
+
 **Situation:**
 
 In the context of a project involving the Nashville Housing dataset, data cleaning was identified as a crucial step to enhance the quality and consistency of the data for subsequent analysis.

@@ -1,3 +1,5 @@
+**Leveraging SQL Queries and Tableau Visualizations to Explore Global Salaries and Employment Trends in AI, ML, and Data Science**
+
 **Situation:**
 
 The dataset under consideration contains salary information for positions in the fields of Artificial Intelligence (AI), Machine Learning (ML), and Data Science. The dataset was sourced from https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries on Oct 27, 2023, and is also available at https://ai-jobs.net/salaries/download/ under the public domain, licensed under CC0.
